@@ -6,16 +6,13 @@
 
 ## 安装
 
-### 方式一：一键安装
+直接下载 `index.js`，放到你的 li 项目里就能用。
 
+前提：先装好 jsql-neo：
 ```bash
 bash jsql.vexify.top/setup
-```
-
-### 方式二：npm 安装
-
-```bash
-npm install jsql-neo4li
+# 或
+npm install jsql-neo
 ```
 
 ## 使用

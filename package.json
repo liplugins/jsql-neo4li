@@ -1,0 +1,15 @@
+{
+  "name": "jsql-neo4li",
+  "version": "0.1.0",
+  "description": "jsql-neo 数据库的 li 语言绑定",
+  "main": "index.js",
+  "scripts": {
+    "setup": "bash jsql.vexify.top/setup"
+  },
+  "dependencies": {
+    "jsql-neo": "^6.6.0"
+  },
+  "keywords": ["li", "li-language", "database", "sql", "jsql-neo"],
+  "author": "liplugins",
+  "license": "MIT"
+}
